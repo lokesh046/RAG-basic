@@ -20,7 +20,7 @@ It is designed for developers and data scientists who want to build **RAG (Retri
 
 
 
-- **Notebook Name:** `6866648c-0da3-4265-bab0-2111f26dd86b.ipynb`  
+- **Notebook Name:** `RAG_BASIC`  
   The main notebook you’ll open and run step-by-step. It installs dependencies, loads your document, splits it into chunks, creates embeddings, and saves them to FAISS.
 
 ---
