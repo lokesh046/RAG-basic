@@ -51,5 +51,5 @@ This project leverages the following open-source tools:
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+(https://github.com/lokesh046/RAG-basic.git)
+cd <RAG-basic>
